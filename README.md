@@ -1,5 +1,5 @@
 # smart-contract
-This will help you create a simple smart contract using your mobile phones.
+A step-by-step guide to create a smart contract using your mobile phones.
 
 
 steps to follow:
